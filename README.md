@@ -2,7 +2,7 @@
 
 Here are some useful snippets for writing posts for Alligator.io. Each snippet has a version for Atom, VS Code and Sublime Text. Sorry VI users 😆!
 
-Thanks to [this snippet generator](https://github.com/pawelgrzybek/snippet-generator) for making it!
+Thanks to [this snippet generator](https://github.com/pawelgrzybek/snippet-generator) for making it easy!
 
 ## Table of contents
 
